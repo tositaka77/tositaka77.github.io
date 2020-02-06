@@ -1,6 +1,6 @@
 # About Me
 
-私は安原
+私はToshitaka Yasuharaと言います、技術が人の役に立つ形になるように繋げるような事に係わりたいと考えています。
 
 # Works
 
