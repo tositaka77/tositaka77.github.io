@@ -24,3 +24,8 @@ Opinions are my own, NOT views of my employer.
 - 2019/7/19 企業分析 最終発表の講評
 - 2019/6/7 経営学 ゲストスピーカー
 -  2018年4月〜12月 [Student Company Program](https://www.ja-japan.org/programs/studentCompanyProgram.html)におけるアドバイザー（社外取締役） ([Video](https://www.youtube.com/watch?time_continue=37&v=4GKPkrY2mL8&feature=emb_logo))
+
+# Social Media
+- [Linkdin](https://www.linkedin.com/in/tositaka77/)
+- [Facebook](https://www.facebook.com/tositaka77)
+- [Twitter](https://twitter.com/tositaka77_ja)
