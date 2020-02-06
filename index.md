@@ -1,6 +1,7 @@
 # About Me
 
-私はToshitaka Yasuharaと言います、技術が人の役に立つ形になるように繋げるような事に係わりたいと考えています。
+私はToshitaka Yasuharaです、技術が人の役に立つ形になるように繋げるような事に係わりたいと考えています。
+
 Opinions are my own, NOT views of my employer.
 
 # Works
@@ -19,6 +20,7 @@ Opinions are my own, NOT views of my employer.
 # Volunteer
 - [ONE JAPANハッカソン 第4回](https://web.archive.org/save/https://onejapanhackathon.connpass.com/event/132413/), Technical advisor
 ## [明治大学 沼田ゼミ](https://web.archive.org/save/https://www.meiji.ac.jp/nippon/seminar/numata_yuko.html)
--  2018年4月〜12月 [Student Company Program](https://www.ja-japan.org/programs/studentCompanyProgram.html)におけるアドバイザー（社外取締役） ([Video](https://www.youtube.com/watch?time_continue=37&v=4GKPkrY2mL8&feature=emb_logo))
-- 2019/7/19 企業分析クラス 講評
+- 2020/1/15 デザインシンキング 最終発表の講評
+- 2019/7/19 企業分析 最終発表の講評
 - 2019/6/7 経営学 ゲストスピーカー
+-  2018年4月〜12月 [Student Company Program](https://www.ja-japan.org/programs/studentCompanyProgram.html)におけるアドバイザー（社外取締役） ([Video](https://www.youtube.com/watch?time_continue=37&v=4GKPkrY2mL8&feature=emb_logo))
