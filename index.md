@@ -1,6 +1,6 @@
 # About Me
 
-私はToshitaka Yasuharaです、技術が人の役に立つ形になるように繋げるような事に係わりたいと考えています。
+私はToshitaka Yasuharaです、技術が人の役に立つように、それらを繋げるような事に係わりたいです。
 
 Opinions are my own, NOT views of my employer.
 
