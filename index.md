@@ -12,4 +12,8 @@ Opinions are my own, NOT views of my employer.
 - Google CLoud Anthos day [NTTドコモ情報システム部における GKE 導入事例　～パーソナルデータダッシュボード開発～](https://megalodon.jp/2020-0206-1622-57/https://inthecloud.withgoogle.com:443/anthos-day-2001/register.html)
 
 ### 2019年
-- 
+- Actifio Data Driven 2019 東京 [GCPとActifioで実現する次世代のBCPとは？](https://megalodon.jp/2020-0206-1631-54/https://news.mynavi.jp:443/lp/2019/business/enterprise/ADD2019/)
+- Gartner IT SYMPOSIUM Xpo [Google Cloudと議論するデジタル時代のデータセンター戦略](https://megalodon.jp/2020-0206-1635-40/https://reg.gartner-em.jp:443/public/session/view/4394)
+- Gartner Data & Analytics 2019 [クラウドのデータ基盤に求められるデータガバナンスとデータマネジメントとは？](https://megalodon.jp/2020-0206-1639-56/https://reg.gartner-em.jp:443/public/application/add/1812)
+
+# Social
