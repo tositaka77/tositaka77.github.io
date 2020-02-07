@@ -16,6 +16,7 @@ Opinions are my own, NOT views of my employer.
 - Actifio Data Driven 2019 東京 [GCPとActifioで実現する次世代のBCPとは？](https://web.archive.org/save/https://news.mynavi.jp:443/lp/2019/business/enterprise/ADD2019/)
 - Gartner IT SYMPOSIUM Xpo [Google Cloudと議論するデジタル時代のデータセンター戦略](https://web.archive.org/save/https://reg.gartner-em.jp:443/public/session/view/4394)
 - Gartner Data & Analytics 2019 [クラウドのデータ基盤に求められるデータガバナンスとデータマネジメントとは？](https://web.archive.org/save/https://reg.gartner-em.jp:443/public/application/add/1812)
+- Google Cloud Next Tokyo 2019 [GCP におけるリソースとコスト管理のベストプラクティス](https://megalodon.jp/2020-0207-1254-17/https://cloud.withgoogle.com:443/next/19/tokyo/sessions?session=D1-6-S10)([Record](https://www.youtube.com/watch?v=Kw3VG_CaV0Q&feature=emb_logo))
 
 # Volunteer
 - [ONE JAPANハッカソン 第4回](https://web.archive.org/save/https://onejapanhackathon.connpass.com/event/132413/), Technical advisor
