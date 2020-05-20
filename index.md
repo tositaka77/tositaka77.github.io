@@ -20,6 +20,10 @@ Opinions are my own, NOT views of my employer.
 - Gartner IT SYMPOSIUM Xpo [Google Cloudと議論するデジタル時代のデータセンター戦略](https://web.archive.org/save/https://reg.gartner-em.jp:443/public/session/view/4394)
 - Gartner Data & Analytics 2019 [クラウドのデータ基盤に求められるデータガバナンスとデータマネジメントとは？](https://web.archive.org/save/https://reg.gartner-em.jp:443/public/application/add/1812)
 - Google Cloud Next Tokyo 2019 [GCP におけるリソースとコスト管理のベストプラクティス](https://megalodon.jp/2020-0207-1254-17/https://cloud.withgoogle.com:443/next/19/tokyo/sessions?session=D1-6-S10)([Record](https://www.youtube.com/watch?v=Kw3VG_CaV0Q&feature=emb_logo))
+- Cloud On Air
+  - [[Cloud OnAir]Anthos で実現するハイブリッドクラウド ~ GKE On-Prem 編 ~[2019年8月29日放送]](https://www.youtube.com/watch?v=l-r93eOAmJ0&feature=emb_logo)
+  - [[Cloud OnAir] Google Cloud でつくるハイブリッドクラウド[2019年2月14日放送]](https://www.youtube.com/watch?v=ruXPeT1jk20&feature=emb_logo)
+  - [[Cloud OnAir]Next '19 in Tokyo 特集[2019年8月1日放送]](https://www.youtube.com/watch?v=DN23m9FzFj4&feature=emb_logo)
 
 # Volunteer
 - [ONE JAPANハッカソン 第4回](https://web.archive.org/save/https://onejapanhackathon.connpass.com/event/132413/), Technical advisor
