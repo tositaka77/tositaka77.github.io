@@ -13,6 +13,9 @@ Opinions are my own, NOT views of my employer.
 - Google CLoud Anthos day [NTTドコモ情報システム部における GKE 導入事例　～パーソナルデータダッシュボード開発～](https://web.archive.org/save/https://inthecloud.withgoogle.com:443/anthos-day-2001/register.html)([Agenda](https://media-exp1.licdn.com/dms/image/C5122AQGQmNvx-28P8A/feedshare-shrink_1280/0?e=1583971200&v=beta&t=DENdEXdjwrh0LLBprekst4omZkwcyEwIoeDd1pKbODU))
 
 ### 2019年
+- [Google Cloud Day: Digital](https://web.archive.org/web/20200516234822/https://cloudonair.withgoogle.com/events/google-cloud-day-digital)
+  - [GCP への Lift & Shift の様々な選択肢と移行ツールについて](https://cloudonair.withgoogle.com/events/google-cloud-day-digital?talk=d2-infra01)
+  - [オールアバウトにおけるサービスインフラ基盤の GCP 移行の事例紹介](https://cloudonair.withgoogle.com/events/google-cloud-day-digital?talk=d2-infra05)
 - Actifio Data Driven 2019 東京 [GCPとActifioで実現する次世代のBCPとは？](https://web.archive.org/save/https://news.mynavi.jp:443/lp/2019/business/enterprise/ADD2019/)
 - Gartner IT SYMPOSIUM Xpo [Google Cloudと議論するデジタル時代のデータセンター戦略](https://web.archive.org/save/https://reg.gartner-em.jp:443/public/session/view/4394)
 - Gartner Data & Analytics 2019 [クラウドのデータ基盤に求められるデータガバナンスとデータマネジメントとは？](https://web.archive.org/save/https://reg.gartner-em.jp:443/public/application/add/1812)
