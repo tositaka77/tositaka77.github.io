@@ -8,7 +8,7 @@ Opinions are my own, NOT views of my employer.
 ### 2020年
 - [Google Cloud Day: Digital](https://web.archive.org/web/20200516234822/https://cloudonair.withgoogle.com/events/google-cloud-day-digital)
   - [GCP への Lift & Shift の様々な選択肢と移行ツールについて](https://cloudonair.withgoogle.com/events/google-cloud-day-digital?talk=d2-infra01)([Record](https://www.youtube.com/watch?time_continue=1&v=02WwR6Fu0Cg&feature=emb_logo))
-  - [オールアバウトにおけるサービスインフラ基盤の GCP 移行の事例紹介](https://www.youtube.com/watch?time_continue=1&v=8pv6ckNIhx8&feature=emb_logo)
+  - [オールアバウトにおけるサービスインフラ基盤の GCP 移行の事例紹介](https://cloudonair.withgoogle.com/events/google-cloud-day-digital?talk=d2-infra05)([Record](https://www.youtube.com/watch?time_continue=1&v=8pv6ckNIhx8&feature=emb_logo))
 - 東京デジタルイノベーション 2020 [グーグル流　「2025年の崖」の乗り越え方 ～クラウド活用で守りから攻めの ICT へ～](https://web.archive.org/web/20200206140758/https://ers.nikkeibp.co.jp/user/contents/2020w0218tky/index.html)
 - Google CLoud Anthos day [NTTドコモ情報システム部における GKE 導入事例　～パーソナルデータダッシュボード開発～](https://web.archive.org/save/https://inthecloud.withgoogle.com:443/anthos-day-2001/register.html)([Agenda](https://media-exp1.licdn.com/dms/image/C5122AQGQmNvx-28P8A/feedshare-shrink_1280/0?e=1583971200&v=beta&t=DENdEXdjwrh0LLBprekst4omZkwcyEwIoeDd1pKbODU),[Deck](https://inthecloud.withgoogle.com/anthos-day-2001/Google_Cloud_Anthos_Day_200130_Session6.pdf),[Record](https://www.youtube.com/watch?v=TAdzDnNor_g&feature=youtu.be))
 
