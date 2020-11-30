@@ -6,7 +6,7 @@ Opinions are my own, NOT views of my employer.
 ## イベントの登壇
 
 ### 2020年
-- [Google Cloud へのマイグレーション ツールの紹介](https://cloudonair.withgoogle.com/events/cloud_onair_q4_1126)
+- [Cloud OnAir Google Cloud へのマイグレーション ツールの紹介](https://cloudonair.withgoogle.com/events/cloud_onair_q4_1126)
 - [Google Cloud Day: Digital](https://web.archive.org/web/20200516234822/https://cloudonair.withgoogle.com/events/google-cloud-day-digital)
   - [GCP への Lift & Shift の様々な選択肢と移行ツールについて](https://cloudonair.withgoogle.com/events/google-cloud-day-digital?talk=d2-infra01)([Record](https://www.youtube.com/watch?time_continue=1&v=02WwR6Fu0Cg&feature=emb_logo))
   - [オールアバウトにおけるサービスインフラ基盤の GCP 移行の事例紹介](https://cloudonair.withgoogle.com/events/google-cloud-day-digital?talk=d2-infra05)([Record](https://www.youtube.com/watch?time_continue=1&v=8pv6ckNIhx8&feature=emb_logo))
